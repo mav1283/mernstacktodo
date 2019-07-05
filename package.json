@@ -2,6 +2,7 @@
   "name": "mern-todo-app",
   "version": "1.0.0",
   "description": "A MERN stack todo app",
+  "repository": "https://github.com/mav1283/mernstacktodo.git",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
